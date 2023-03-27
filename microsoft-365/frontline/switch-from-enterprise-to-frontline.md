@@ -145,14 +145,16 @@ F3 and F1 users have 2 GB of OneDrive storage to store and share files. To learn
 
 |Service or feature|Microsoft 365 E3/E5|Microsoft 365 F3|Microsoft 365 F1|
 |---------|---------|---------|---------|
-|Power Apps|Yes|Yes|No|
+|Power Apps|Yes|Yes|No&sup2;|
 |Power Automate|Yes|Yes|No|
 |Power Virtual Agents|Yes|Yes|No|
 |Dataverse for Teams|Yes|Yes|No|
-|Microsoft Forms|Yes&sup1;|Yes&sup1;|No|
+|Microsoft Forms|Yes&sup1;|Yes&sup1;|No&sup1;|
 |Microsoft To Do|Yes|Yes|No|
 
 &sup1;Licensed users can create, share, and manage forms. A license isn’t needed to complete or respond to a form.
+&sup2;Licensed users can create, share, and manage PowerApps. A license isn’t needed to access or consume a PowerApp.
+
 
 #### Windows
 
